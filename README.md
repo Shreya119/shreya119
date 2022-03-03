@@ -1,13 +1,18 @@
+![image](https://user-images.githubusercontent.com/80096242/156529911-061e3bb7-4844-42b0-b335-9f9726437f62.png)
+
+
 <h1 align="center">Hola 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A passionate Web developer, Coder and Content Writer</h3>
+<h3 align="center">|| A passionate Web developer, Programmer and Content Writer ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya119&label=Profile%20views&color=0e75b6&style=flat" alt="shreya119" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya119" alt="shreya119" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 📫 How to reach me **shreyaguptaa119@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MRoesmTkuwnLJ9J-E9iz2w3wsZSDwqC5/view?usp=drivesdk)
+
+- ⚡ Fun fact **I love to explore XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +32,16 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">Earned Badges:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya119&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" alt="shreya119" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya119&show_icons=true&locale=en" alt="shreya119" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya119&" alt="shreya119" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://activity-graph.herokuapp.com/graph?username=shreya119&theme=github&count_private=true" alt="shreya119" /></a> </p>
+
+
+
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
