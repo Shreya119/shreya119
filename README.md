@@ -79,7 +79,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://activity-graph.herokuapp.com/graph?username=shreya119&theme=github&count_private=true" alt="shreya119" /></a> </p>
+
 
 
 
