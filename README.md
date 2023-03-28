@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **shreyaguptaa119@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1d2mH56eQDP3iSRHrR23qY2j9PX1q0otC/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rEjIXlyt5J7j6Cw4PfzdhwLq9oVIlPFP/view?usp=sharing)
 
-- ⚡ Fun fact **I love to explore XD**
+- ⚡ Fun fact **I love cooking XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
