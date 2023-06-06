@@ -11,17 +11,18 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rEjIXlyt5J7j6Cw4PfzdhwLq9oVIlPFP/view?usp=sharing)
 
-- ⚡ Fun fact **I love cooking XD**
+<!-- ⚡ Fun fact **I love cooking XD** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreya-gupta-a98a55201" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreya-gupta-a98a55201" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004283671180" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100004283671180" height="30" width="40" /></a>
+<!--<a href="https://fb.com/profile.php?id=100004283671180" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100004283671180" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shreynoob" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shreynoob" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/peaches" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="peaches" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreya119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shreya119" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shreyaguptaa119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shreyaguptaa119" height="30" width="40" /></a>
-</p>
+</p> -->
+	
 <h3><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Tech Stack</h3>
 
 <p>
@@ -69,7 +70,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya119&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy" alt="shreya119" /></a> </p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya119&show_icons=true&locale=en" alt="shreya119" /></p> -->
 &nbsp;
-	<h3>⚙️ GitHub Analytics</h3>
+
+<!--	<h3>⚙️ GitHub Analytics</h3>
 <p>
   <a href="https://github.com/Shreya119/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Shreya119&show_icons=true&theme=dracula&count_private=true&card_width=300" />
@@ -77,7 +79,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya119&theme=cobalt&langs_count=8&layout=compact&card_width=400" />
   </a>
 </p>
-
+-->
 
 
 
