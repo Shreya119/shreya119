@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hola 👋, I'm Shreya Gupta</h1>
-<h3 align="center">|| A passionate Web developer, Programmer and Content Writer ||</h3>
+<h3 align="center">|| A passionate Software developer currently working at Adobe India ||</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 📫 How to reach me **shreyaguptaa119@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rEjIXlyt5J7j6Cw4PfzdhwLq9oVIlPFP/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rpIOZJYlRg2WQPVlbp0GH6H9Q_6WvzwI/view?usp=sharing)
 
 <!-- ⚡ Fun fact **I love cooking XD** -->
 
